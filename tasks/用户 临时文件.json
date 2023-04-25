@@ -1,0 +1,1 @@
+{"Path":"","Regex":".*(Local\\Temp)","Name":"用户 临时文件","AppName":"Windows","Description":"各类软件的临时文件存储","match":false,"iconPath":"/icons/ic_folder.png"}

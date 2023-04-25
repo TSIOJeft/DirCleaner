@@ -1,0 +1,1 @@
+{"Path":"","Regex":"Chrome.*(User Data)+(.*\\Cache)","Name":"Chrome 缓存","AppName":"Google Chrome","Description":"缓存文件","match":false,"iconPath":"D:\\FarPlace\\Project\\window\\DirCleaner\\bin\\Debug\\program_icons\\Google Chrome.png"}
