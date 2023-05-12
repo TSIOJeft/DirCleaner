@@ -1,10 +1,6 @@
 # DirCleaner
-Something about DirCleaner
-# About
-You can get more tasks and program icons here.
-Just pull request if you have something to share.
+存储清浊的一些扩展文件
 ## tasks
-task from server
+扩展规则
 ## program_icons
-icon for task and folder to show link program icon.
-
+扩展应用图标
