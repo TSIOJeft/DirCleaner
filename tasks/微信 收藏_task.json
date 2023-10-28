@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 收藏",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*favorite"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "小米商店的缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米商店视频缓存",
+  "Notice": 0,
+  "PackName": "com.xiaomi.market",
+  "Paths": [
+    "PUBLIC_LOCATION/com.xiaomi.market/files/cmsvideo",
+    "PUBLIC_DATA/com.xiaomi.market/files/cmsVideo"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的安装包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "作业帮安装包",
+  "Notice": 0,
+  "PackName": "com.baidu.homework",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.homework/files/ext_download"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

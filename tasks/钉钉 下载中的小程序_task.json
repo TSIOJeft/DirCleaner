@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "钉钉 下载中的小程序",
+  "Notice": 0,
+  "PackName": "com.alibaba.android.rimet",
+  "Paths": [
+    "PRIVATE_DATA/com.alibaba.android.rimet/files/dingtalktheone/ariverpackages/downloads/",
+    "PUBLIC_LOCATION/alipay/com.alibaba.android.rimet/nebuladownload/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "未下载完成或下载中的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 下载中的文件",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.trooptmp/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqfile_recv/.trooptmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/qqfile_recv\\/\\.trooptmp\\/)(?>[A-Z0-9]{32})$"
+  ],
+  "Size": 0,
+  "type": 0
+}

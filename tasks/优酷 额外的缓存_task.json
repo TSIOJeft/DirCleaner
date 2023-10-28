@@ -1,0 +1,22 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "优酷 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.youku.phone",
+  "Paths": [
+    "PRIVATE_DATA/com.youku.phone/app_zcache/",
+    "PRIVATE_DATA/com.youku.phone/files/caches/",
+    "PRIVATE_DATA/com.youku.phone/files/cachevideos/",
+    "PRIVATE_DATA/com.youku.phone/files/zcache/",
+    "PUBLIC_DATA/com.youku.phone/files/avfscache/",
+    "PUBLIC_DATA/com.youku.phone/files/download/sina/weibo/cache/",
+    "PUBLIC_LOCATION/youku/cachedata/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

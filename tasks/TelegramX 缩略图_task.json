@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "缩略图缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TelegramX 缩略图",
+  "Notice": 0,
+  "PackName": "org.thunderdog.challegram",
+  "Paths": [
+    "PRIVATE_DATA/org.thunderdog.challegram/files/tdlib/thumbnails/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

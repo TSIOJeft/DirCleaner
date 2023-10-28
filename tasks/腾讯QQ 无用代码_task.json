@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "存储的检查无用代码",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 无用代码",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/check_unused_code"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族锁屏 广告",
+  "Notice": 0,
+  "PackName": "com.meizu.net.nativelockscreen",
+  "Paths": [
+    "PUBLIC_LOCATION/.adtemp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

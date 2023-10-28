@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/cache/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/httpcache/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/localcache/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

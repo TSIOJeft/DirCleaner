@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "图片缓存，视频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 看点",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/scribble/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/videocache/",
+    "PUBLIC_DATA/com.tencent.mobileqq/qsubscribe/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/scribble/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "加载的在线文档删除后需要重新下载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "学习通 云端文档",
+  "Notice": 0,
+  "PackName": "com.chaoxing.mobile",
+  "Paths": [
+    "PUBLIC_LOCATION/chaoxing/chaoxingmobile/cloud"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

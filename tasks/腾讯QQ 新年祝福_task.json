@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "新年祝福和刷一刷资源文件建议清理",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 新年祝福",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ/springhb",
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ/springhb_shuayishua"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

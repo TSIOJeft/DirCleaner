@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "礼物动画的资源文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ音乐 礼物动画文件",
+  "Notice": 0,
+  "PackName": "com.tencent.qqmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/qqmusic/gift_anim_zip"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

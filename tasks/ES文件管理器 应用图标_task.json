@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "文件夹映射图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "ES文件管理器 应用图标",
+  "Notice": 0,
+  "PackName": "com.estrongs.android.pop",
+  "Paths": [
+    "PUBLIC_LOCATION/.estrongs/.app_icon_back/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

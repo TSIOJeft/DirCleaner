@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "用于加速下次文档打开的临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米文档查看器 临时文件",
+  "Notice": 0,
+  "PackName": "cn.wps.moffice_eng.xiaomi.lite",
+  "Paths": [
+    "PUBLIC_DATA/cn.wps.moffice_eng.xiaomi.lite/.cache/kingsoftoffice/.temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

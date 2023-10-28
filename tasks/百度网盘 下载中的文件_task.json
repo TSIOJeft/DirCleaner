@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "下载目录中未下载完成的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度网盘 下载中的文件",
+  "Notice": 1,
+  "PackName": "com.baidu.netdisk",
+  "Paths": [
+    "PUBLIC_LOCATION/baidunetdisk/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^(?:.+?\\/baidunetdisk\\/.+?)(\\.baiduyun\\.p\\.downloading)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

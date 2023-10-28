@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "存储的图片些大都无用",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "掌上应用联盟 存储的图片",
+  "Notice": 0,
+  "PackName": "com.tencent.qt.qtl",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qt.qtl/image"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "AR平台加载的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "支付宝 AR平台文件",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/com.eg.android.AlipayGphone/arplatform"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

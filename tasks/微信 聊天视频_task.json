@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "聊天中接收的视频或视频预览图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 聊天视频",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^((?!card).)*(video)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

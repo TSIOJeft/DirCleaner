@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "商店在根目录的缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "vivo 商店缓存",
+  "Notice": 0,
+  "PackName": "com.bbk.appstore",
+  "Paths": [
+    "PUBLIC_LOCATION/.bbkappstore/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

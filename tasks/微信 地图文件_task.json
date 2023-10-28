@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "地图SDK加载的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 地图文件",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg/mapsdk"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

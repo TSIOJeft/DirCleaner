@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "音乐软件传递给系统锁屏的缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "媒体存储 专辑缩略图",
+  "Notice": 0,
+  "PackName": "com.android.providers.media",
+  "Paths": [
+    "PUBLIC_DATA/com.android.providers.media/albumthumbs/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

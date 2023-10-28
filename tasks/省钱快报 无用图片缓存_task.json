@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "无用图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "省钱快报 无用图片缓存",
+  "Notice": 0,
+  "PackName": "com.jzyd.coupon",
+  "Paths": [
+    "PUBLIC_DATA/com.jzyd.coupon/pictures/frescoCacheSmall",
+    "PUBLIC_DATA/com.jzyd.coupon/pictures/frescoCacheDefault"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

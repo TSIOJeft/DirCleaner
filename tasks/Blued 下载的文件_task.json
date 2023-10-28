@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的图片和视频删除后不可恢复",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Blued 下载的文件",
+  "Notice": 2,
+  "PackName": "com.soft.blued",
+  "Paths": [
+    "PUBLIC_DATA/com.soft.blued/files/bddownload"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

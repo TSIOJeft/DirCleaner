@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "作业所携带的附件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 作业附件",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqhomework_attach/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqhomework_attach/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

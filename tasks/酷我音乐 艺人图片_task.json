@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "由歌曲匹配的艺人图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "酷我音乐 艺人图片",
+  "Notice": 2,
+  "PackName": "cn.kuwo.player",
+  "Paths": [
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/picture/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

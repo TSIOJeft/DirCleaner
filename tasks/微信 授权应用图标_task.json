@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 授权应用图标",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*openapi"
+  ],
+  "Size": 0,
+  "type": 0
+}

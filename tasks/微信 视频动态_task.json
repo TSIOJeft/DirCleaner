@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "视频缓存与配音缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 视频动态",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/",
+    "PRIVATE_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*oneday"
+  ],
+  "Size": 0,
+  "type": 0
+}

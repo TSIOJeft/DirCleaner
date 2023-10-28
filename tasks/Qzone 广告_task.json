@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "聚赢广告",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Qzone 广告",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qzone/.appcenterimgcache/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qzone/.appcenterimgcache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

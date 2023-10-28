@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "输入法表情文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度输入法 已下载表情",
+  "Notice": 2,
+  "PackName": "com.baidu.input",
+  "Paths": [
+    "PUBLIC_LOCATION/baidu/ime/.emoji/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

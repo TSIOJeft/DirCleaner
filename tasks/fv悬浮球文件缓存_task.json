@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "由于程序设计问题，在使用“以fv悬浮球打开文件”功能时，会自动复制打开的文件到此目录，谨慎删除",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "fv悬浮球文件缓存",
+  "Notice": 1,
+  "PackName": "com.fooview.android.fooview",
+  "Paths": [
+    "PUBLIC_DATA/com.fooview.android.fooview/files/tmp"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

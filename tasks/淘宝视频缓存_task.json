@@ -1,0 +1,17 @@
+{
+  "Checked": true,
+  "Description": "包含推荐的视频缓存和一般的视频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "淘宝视频缓存",
+  "Notice": 0,
+  "PackName": "com.taobao.taobao",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.taobao/cache",
+    "PUBLIC_DATA/com.taobao.taobao/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

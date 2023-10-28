@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "开屏广告下载的图片和通知栏提示的图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "U净 开屏广告和提示的图片",
+  "Notice": 0,
+  "PackName": "com.midea.vm.washer",
+  "Paths": [
+    "PUBLIC_DATA/com.midea.vm.washer/files/Pictures",
+    "PUBLIC_DATA/com.midea.vm.washer/files/splash"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族锁屏 额外的日志",
+  "Notice": 0,
+  "PackName": "com.meizu.net.nativelockscreen",
+  "Paths": [
+    "PUBLIC_LOCATION/android/obb/log/",
+    "PUBLIC_DATA/com.meizu.net.nativelockscreen/update_component_plugin_log",
+    "PUBLIC_DATA/com.meizu.net.nativelockscreen/update_component_log"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

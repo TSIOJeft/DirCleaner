@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "无用图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "淘特 无用图片缓存",
+  "Notice": 0,
+  "PackName": "com.taobao.litetao",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.litetao/files/AVFSCache/phximgs_top1/files"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

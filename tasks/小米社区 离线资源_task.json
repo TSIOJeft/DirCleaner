@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小米社区网页离线资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米社区 离线资源",
+  "Notice": 0,
+  "PackName": "com.xiaomi.vipaccount",
+  "Paths": [
+    "PUBLIC_DATA/com.xiaomi.vipaccount/files/web_offline_source"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

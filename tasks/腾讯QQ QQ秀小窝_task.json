@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "QQ秀小窝游戏包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ QQ秀小窝",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/zootopia_download"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

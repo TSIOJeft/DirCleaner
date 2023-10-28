@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "公众号的封面图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 公众号封面图",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*taskbar"
+  ],
+  "Size": 0,
+  "type": 0
+}

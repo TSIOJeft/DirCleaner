@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "由匹配本地歌曲或在线音乐时生成的歌词文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米音乐 歌词",
+  "Notice": 1,
+  "PackName": "com.miui.player",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/music/lyric/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "三思而后行",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族文件管理器 回收站",
+  "Notice": 0,
+  "PackName": "com.meizu.filemanager",
+  "Paths": [
+    "PUBLIC_DATA/.com.meizu.filemanager/.garbage/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

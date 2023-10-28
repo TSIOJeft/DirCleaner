@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "翻咔加载的视频图片等素材资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "翻咔 资源文件",
+  "Notice": 0,
+  "PackName": "com.cupidapp.live",
+  "Paths": [
+    "PUBLIC_DATA/com.cupidapp.live/files/.resources"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

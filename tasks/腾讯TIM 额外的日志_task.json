@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 额外的日志",
+  "Notice": 0,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/tim/log/",
+    "PUBLIC_LOCATION/tencent/tim/qqmail/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

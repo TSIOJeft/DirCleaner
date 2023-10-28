@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "一些无用的压缩主题资源，不会影响到已安装主题",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 压缩主题资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mobileqq/app_theme_810/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/app_theme_810\\/)(?>[\\d]{4}\\/)(?:theme\\.android\\.[\\d\\._]+?\\.xh)(\\.zip){2}$"
+  ],
+  "Size": 0,
+  "type": 0
+}

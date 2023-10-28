@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "音乐缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 一起听",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/listentogether/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/listentogether/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

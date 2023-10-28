@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "启动页广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "招商银行 启动页广告",
+  "Notice": 0,
+  "PackName": "cmb.pb",
+  "Paths": [
+    "PUBLIC_DATA/cmb.pb/files/cmb830/marketingpath/file/mppic"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

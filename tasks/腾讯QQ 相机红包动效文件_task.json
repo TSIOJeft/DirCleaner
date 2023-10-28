@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "腾讯QQ用于红包相机的音效图片文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 相机红包动效文件",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "/sdcard/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/pddata/prd"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

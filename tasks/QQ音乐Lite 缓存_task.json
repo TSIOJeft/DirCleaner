@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "QQ音乐合作版的缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ音乐Lite 缓存",
+  "Notice": 0,
+  "PackName": "com.miui.player",
+  "Paths": [
+    "PUBLIC_LOCATION/qqmusiclite/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

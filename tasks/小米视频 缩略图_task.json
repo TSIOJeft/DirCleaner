@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米视频 缩略图",
+  "Notice": 0,
+  "PackName": "com.miui.video",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/video/thumb/",
+    "PUBLIC_LOCATION/miui/video/thumbsmall/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "菜鸟裹裹存储的图片资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "菜鸟裹裹图片资源",
+  "Notice": 0,
+  "PackName": "com.cainiao.wireless",
+  "Paths": [
+    "PUBLIC_DATA/com.cainiao.wireless/files/images"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

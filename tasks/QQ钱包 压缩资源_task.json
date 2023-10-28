@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "一些无用的被压缩的图形资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ钱包 压缩资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/qwallet/.preloaduni/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/qwallet\\/\\.preloaduni\\/)(?>[A-Z0-9]{32})$"
+  ],
+  "Size": 0,
+  "type": 0
+}

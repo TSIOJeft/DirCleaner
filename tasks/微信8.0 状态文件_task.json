@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "微信8.0的状态文件 包括文字 图片和视频",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信8.0 状态文件",
+  "Notice": 1,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*textstatus"
+  ],
+  "Size": 0,
+  "type": 0
+}

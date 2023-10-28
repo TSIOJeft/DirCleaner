@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载中或下载中暂停的安装包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TapTap 未下载完成的安装包",
+  "Notice": 1,
+  "PackName": "com.taptap",
+  "Paths": [
+    "PUBLIC_DATA/com.taptap/files/download/taptaptmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

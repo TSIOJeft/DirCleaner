@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "游戏中心下载的安装包文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 游戏中心下载",
+  "Notice": 1,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/bigfile/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/bigfile/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

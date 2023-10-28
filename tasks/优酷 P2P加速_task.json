@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "视频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "优酷 P2P加速",
+  "Notice": 0,
+  "PackName": "com.youku.phone",
+  "Paths": [
+    "PUBLIC_LOCATION/accmeta_vod/pcdn/",
+    "PUBLIC_LOCATION/accdata_vod/pcdn/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

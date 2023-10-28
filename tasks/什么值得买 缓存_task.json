@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "什么值得买腾讯缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "什么值得买 缓存",
+  "Notice": 0,
+  "PackName": "com.smzdm.client.android",
+  "Paths": [
+    "PUBLIC_DATA/com.smzdm.client.android/files/txcache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

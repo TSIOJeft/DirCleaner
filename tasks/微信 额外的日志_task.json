@@ -1,0 +1,31 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 额外的日志",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/fts5indexmicromsginfo.txt",
+    "PUBLIC_DATA/com.tencent.mm/weixin/fts5indexmicromsginfo.txt",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/watchdog/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/watchdog/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/locallog/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/locallog/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/crash/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/crash/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/sqltrace/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/sqltrace/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/handler/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/handler/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/wxanewfiles/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/wxanewfiles/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/xlog/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/xlog/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

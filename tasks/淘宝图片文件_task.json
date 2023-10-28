@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "淘宝图片文件包括大图小图等文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "淘宝图片文件",
+  "Notice": 0,
+  "PackName": "com.taobao.taobao",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.taobao/files/amapcn/",
+    "PUBLIC_DATA/com.taobao.taobao/files/avfscache/",
+    "PUBLIC_DATA/com.taobao.taobao/files/acds/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

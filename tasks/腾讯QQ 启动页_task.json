@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 启动页",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/qbosssplahad/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/qbosssplahad/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

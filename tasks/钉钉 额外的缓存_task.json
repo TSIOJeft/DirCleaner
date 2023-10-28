@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "钉钉 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.alibaba.android.rimet",
+  "Paths": [
+    "PRIVATE_DATA/com.alibaba.android.rimet/files/wm_snap_cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

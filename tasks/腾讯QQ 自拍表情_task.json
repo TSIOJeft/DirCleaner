@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "自己制作的表情",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 自拍表情",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qq_cameraemo/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qq_cameraemo/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

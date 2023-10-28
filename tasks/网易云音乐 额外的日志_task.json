@@ -1,0 +1,23 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "网易云音乐 额外的日志",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PRIVATE_DATA/com.netease.cloudmusic/files/mlog/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/mamstatistic/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/mamstatisticv2/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/statistic/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/statisticv2/",
+    "PUBLIC_LOCATION/netease/cloudmusic/cache/mlog/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/urs_sdk_log/",
+    "PUBLIC_DATA/com.netease.cloudmusic/files/nblog"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

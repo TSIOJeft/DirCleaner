@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "删除图片后剩余在回收站的图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "三星相册 图片回收站",
+  "Notice": 2,
+  "PackName": "com.sec.android.gallery3d",
+  "Paths": [
+    "PUBLIC_LOCATION/Android/.Trash/com.sec.android.gallery3d"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

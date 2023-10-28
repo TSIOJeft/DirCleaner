@@ -1,0 +1,31 @@
+{
+  "Checked": false,
+  "Description": "NOW直播插件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 直播插件",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/shadowplugin_base/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/shadowplugin_misc/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/shadowplugin_roombiz/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/shadowplugin_channel/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/shadowplugin_core/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/shadowplugin_misc/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/shadowpluginmanager/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_av/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_base/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_channel",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_core",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_misc",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_odroom/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_roombiz/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_roomimport/",
+    "PRIVATE_DATA/com.tencent.mobileqq/shadowplugin_usercenter/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

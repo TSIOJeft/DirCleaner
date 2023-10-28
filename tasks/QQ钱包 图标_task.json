@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "QQ钱包页面的图标资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ钱包 图标",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/qwallet/.tmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

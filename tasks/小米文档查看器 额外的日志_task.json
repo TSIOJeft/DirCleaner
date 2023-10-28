@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米文档查看器 额外的日志",
+  "Notice": 0,
+  "PackName": "cn.wps.moffice_eng.xiaomi.lite",
+  "Paths": [
+    "PUBLIC_DATA/cn.wps.moffice_eng.xiaomi.lite/.cache/kingsoftoffice/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

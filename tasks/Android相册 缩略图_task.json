@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "原生的缩略图目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Android相册 缩略图",
+  "Notice": 0,
+  "PackName": "com.android.galley3d",
+  "Paths": [
+    "PUBLIC_LOCATION/movies/.thumbnails/",
+    "PUBLIC_LOCATION/dcim/.thumbnails/",
+    "PUBLIC_LOCATION/pictures/.thumbnails/"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0,
+  "type": 0
+}

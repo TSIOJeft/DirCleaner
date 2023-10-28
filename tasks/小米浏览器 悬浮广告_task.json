@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "菜单页上悬浮的广告",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米浏览器 悬浮广告",
+  "Notice": 0,
+  "PackName": "com.android.browser",
+  "Paths": [
+    "PUBLIC_DATA/com.android.browser/files/data/banners/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

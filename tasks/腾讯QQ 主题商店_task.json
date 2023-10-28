@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "主题商店图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 主题商店",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/avatarpendanticons/",
+    "PUBLIC_LOCATION/tencent/mobileqq/avatarpendantdefaulthead/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/avatarpendantdefaulthead/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/avatarpendanticons/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

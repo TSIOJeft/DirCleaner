@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "虚幻4 产生的资源图片日志文件等需要重新加载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 虚幻4 资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/UE4Game"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

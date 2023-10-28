@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "小米收集的bug日志收集等文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米log等文件",
+  "Notice": 0,
+  "PackName": "com.xiaomi.misettings",
+  "Paths": [
+    "PUBLIC_LOCATION/MIUI/debug_log"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

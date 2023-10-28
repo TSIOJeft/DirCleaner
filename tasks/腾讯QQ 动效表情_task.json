@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "动效表情加载的资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 动效表情",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ/pe"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

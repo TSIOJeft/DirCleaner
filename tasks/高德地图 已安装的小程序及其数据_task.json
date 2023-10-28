@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "如无法打开，请强制停止后再打开",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 已安装的小程序及其数据",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PRIVATE_DATA/com.autonavi.minimap/files/nebulainstallapps/",
+    "PRIVATE_DATA/com.autonavi.minimap/files/tinyappdb/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "知乎 额外的日志",
+  "Notice": 0,
+  "PackName": "com.zhihu.android",
+  "Paths": [
+    "PRIVATE_DATA/com.zhihu.android/files/app_log/",
+    "PRIVATE_DATA/com.zhihu.android/files/upload_log/",
+    "PRIVATE_DATA/com.zhihu.android/files/video_log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

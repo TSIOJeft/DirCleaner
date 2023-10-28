@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "存储的一些检查更新的数据",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 检查更新数据",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg/CheckResUpdate"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

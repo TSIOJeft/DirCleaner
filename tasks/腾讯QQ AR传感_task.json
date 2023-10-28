@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "相机现实增强的图形资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ AR传感",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/ar_model/",
+    "PUBLIC_LOCATION/tencent/mobileqq/ar_feature/",
+    "PUBLIC_LOCATION/tencent/mobileqq/iar/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/ar_model/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/ar_feature/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/iar/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

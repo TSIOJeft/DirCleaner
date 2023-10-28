@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小米扫一扫存储的文档图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米扫一扫 文档图片",
+  "Notice": 0,
+  "PackName": "com.xiaomi.scanner",
+  "Paths": [
+    "PUBLIC_DATA/com.xiaomi.scanner/files/.document"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

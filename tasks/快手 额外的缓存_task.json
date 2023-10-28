@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "快手 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.smile.gifmaker",
+  "Paths": [
+    "PUBLIC_DATA/com.smile.gifmaker/files/.awesome_cache/",
+    "PUBLIC_LOCATION/gifshow/",
+    "PRIVATE_DATA/com.smile.gifmaker/app_cache/",
+    "PRIVATE_DATA/com.smile.gifmaker/files/lab/",
+    "PRIVATE_DATA/com.smile.gifmaker/files/filedownloader/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

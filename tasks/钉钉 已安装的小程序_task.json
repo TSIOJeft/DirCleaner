@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "如小程序无法打开请强制停止后再打开",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "钉钉 已安装的小程序",
+  "Notice": 1,
+  "PackName": "com.alibaba.android.rimet",
+  "Paths": [
+    "PRIVATE_DATA/com.alibaba.android.rimet/files/nebulainstallapps/",
+    "PRIVATE_DATA/com.alibaba.android.rimet/files/dingtalktheone/ariverpackages/installed/",
+    "PRIVATE_DATA/com.alibaba.android.rimet/app_h5apps/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

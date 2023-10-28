@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "收藏里的缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 图片收藏",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qq_collection/pic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qq_collection/pic/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

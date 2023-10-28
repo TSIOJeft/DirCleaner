@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "快手极速版 额外的日志",
+  "Notice": 0,
+  "PackName": "com.kuaishou.nebula",
+  "Paths": [
+    "PRIVATE_DATA/com.kuaishou.nebula/kwailink/",
+    "PRIVATE_DATA/com.kuaishou.nebula/debuglog/",
+    "PRIVATE_DATA/com.kuaishou.nebula/exception/java_crash_log/",
+    "PRIVATE_DATA/com.kuaishou.nebula/exception/native_crash_log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

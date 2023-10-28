@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "包括下载的主题壁纸锁屏和缓存等资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米主题下载的资源",
+  "Notice": 2,
+  "PackName": "com.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/MIUI/theme"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

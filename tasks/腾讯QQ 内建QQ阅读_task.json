@@ -1,0 +1,23 @@
+{
+  "Checked": false,
+  "Description": "由腾讯QQ集成的QQ阅读所产生的缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 内建QQ阅读",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/.readInjoy/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.readInjoy/",
+    "PUBLIC_LOCATION/tencent/mobileqq/viola/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/viola/",
+    "PUBLIC_LOCATION/tencent/mobileqq/pubaccount/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/pubaccount/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/readerzone/",
+    "PUBLIC_LOCATION/tencent/readerzone/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

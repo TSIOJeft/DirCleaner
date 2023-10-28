@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "分享预览图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 分享",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PRIVATE_DATA/com.autonavi.minimap/files/autonavi/naviendshare/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "U净热更新的一些文件可能会重新加载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "U净 热更新的文件",
+  "Notice": 0,
+  "PackName": "com.midea.vm.washer",
+  "Paths": [
+    "PUBLIC_LOCATION/uclean/.hot_update_file",
+    "PUBLIC_DATA/com.midea.vm.washer/uclean/.hot_update_file"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

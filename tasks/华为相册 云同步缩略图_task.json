@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "缩略图缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "华为相册 云同步缩略图",
+  "Notice": 0,
+  "PackName": "com.android.gallery3d",
+  "Paths": [
+    "PUBLIC_LOCATION/.photoShare/thumb/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

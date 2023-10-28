@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "抖音 启动页广告",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.aweme",
+  "Paths": [
+    "PUBLIC_DATA/com.ss.android.ugc.aweme/splashcache/",
+    "PUBLIC_DATA/com.ss.android.ugc.aweme/awemesplashcache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

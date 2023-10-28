@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "在线书籍缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "阅读 在线书籍",
+  "Notice": 1,
+  "PackName": "com.gedoor.monkeybook",
+  "Paths": [
+    "PUBLIC_DATA/com.gedoor.monkeybook/files/book_cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

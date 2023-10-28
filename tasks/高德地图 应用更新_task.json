@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的安装包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 应用更新",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_LOACTION/android/data/com.autonavi.minimap/files/autonavi/apk/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

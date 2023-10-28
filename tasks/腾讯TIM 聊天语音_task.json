@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "对话中的语音消息",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 聊天语音",
+  "Notice": 2,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/tim/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/tim\\/)(?>[\\d]+\\/)(?:ptt\\/([\\d]+?\\/){0,2})(?:group|stream|c2c)_[\\w]+?\\.(?:slk|amr|pcm)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 好友头像",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*avatar"
+  ],
+  "Size": 0,
+  "type": 0
+}

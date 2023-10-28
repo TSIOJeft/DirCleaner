@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "下载中的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TelegramX 临时文件",
+  "Notice": 1,
+  "PackName": "org.thunderdog.challegram",
+  "Paths": [
+    "PRIVATE_DATA/org.thunderdog.challegram/files/tdlib/temp/",
+    "PUBLIC_DATA/org.thunderdog.challegram/files/temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

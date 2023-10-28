@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "酷我音乐 额外的日志",
+  "Notice": 0,
+  "PackName": "cn.kuwo.player",
+  "Paths": [
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/.crash/",
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/.data/offline_backlog/",
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/.data/offline_log/",
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/log/",
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/push/",
+    "PUBLIC_DATA/cn.kuwo.player/files/kuwomusic/centerpush/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

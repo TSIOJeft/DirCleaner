@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "更新或下载存储的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 自带应用下载目录",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/TMAssistantSDK"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

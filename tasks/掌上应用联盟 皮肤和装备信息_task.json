@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "存储的皮肤和装备信息删除后可能需要重新下载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "掌上应用联盟 皮肤和装备信息",
+  "Notice": 0,
+  "PackName": "com.tencent.qt.qtl",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qt.qtl/lol"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

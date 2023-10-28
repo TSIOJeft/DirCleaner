@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "对话中下载的杂合在一起的贴图与文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Telegram 文件与贴图",
+  "Notice": 2,
+  "PackName": "org.telegram.messenger",
+  "Paths": [
+    "PUBLIC_LOCATION/telegram/telegram documents/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

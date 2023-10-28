@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "形象相关的资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ QQ秀文件",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/files/QQShowDownload"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

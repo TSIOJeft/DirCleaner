@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "长截图图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 消息长截图",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/aio_long_shot/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/aio_long_shot/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

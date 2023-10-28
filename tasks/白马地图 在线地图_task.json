@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "在线地图缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "白马地图 在线地图",
+  "Notice": 0,
+  "PackName": "me.gfuil.bmap",
+  "Paths": [
+    "PUBLIC_DATA/me.gfuil.bmap/files/amap/data_v6/mapcache/",
+    "PUBLIC_DATA/me.gfuil.bmap/files/amap/data_v6/online/",
+    "PUBLIC_DATA/me.gfuil.bmap/files/baidumapsdknew/cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

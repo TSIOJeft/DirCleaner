@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "网络缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 小程序",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mini/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mini/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "输入法皮肤文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度输入法一加版 更新皮肤",
+  "Notice": 2,
+  "PackName": "com.baidu.input_yijia",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.input_yijia/files/skin_update/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

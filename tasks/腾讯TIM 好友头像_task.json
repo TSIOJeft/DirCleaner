@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 好友头像",
+  "Notice": 2,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/tim/head/_hd/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

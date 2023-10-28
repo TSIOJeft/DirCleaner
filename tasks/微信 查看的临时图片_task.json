@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "公众号等点击查看后存储的临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 查看的临时图片",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg/.tmp"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

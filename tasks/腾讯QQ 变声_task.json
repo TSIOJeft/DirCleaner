@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "图标资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 变声",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/voicechange/",
+    "PUBLIC_LOCATION/tencent/mobileqq/voicechange/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

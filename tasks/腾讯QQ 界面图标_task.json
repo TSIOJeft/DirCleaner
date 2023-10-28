@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "聊天界面Tab里的一些图标与小程序图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 界面图标",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/diskcache/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/diskcache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

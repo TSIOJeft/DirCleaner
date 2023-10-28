@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "相机中已下载的艺术滤镜资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 艺术滤镜",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/artfilter/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/artfilter/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

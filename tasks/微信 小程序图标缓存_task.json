@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小程序缓存的图标可能会重新加载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 小程序图标缓存",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/MicroMsg/wxacache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

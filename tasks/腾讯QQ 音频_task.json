@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "未知的音频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 音频",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/ppt/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/audiocache/",
+    "PUBLIC_LOCATION/tencent/mobileqq/ppt/",
+    "PUBLIC_LOCATION/tencent/mobileqq/audiocache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

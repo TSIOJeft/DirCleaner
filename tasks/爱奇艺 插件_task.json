@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "特定功能加载的插件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "爱奇艺 插件",
+  "Notice": 1,
+  "PackName": "com.qiyi.video",
+  "Paths": [
+    "PRIVATE_DATA/com.qiyi.video/app_pluginapp/",
+    "PRIVATE_DATA/com.qiyi.video/files/aiapps_folder/",
+    "PRIVATE_DATA/com.qiyi.video/files/aiapps_zip/",
+    "PRIVATE_DATA/com.qiyi.video/files/aigames_folder/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

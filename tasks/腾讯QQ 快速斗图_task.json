@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "快速斗图的图标资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 快速斗图",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/doutures/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/doutures/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

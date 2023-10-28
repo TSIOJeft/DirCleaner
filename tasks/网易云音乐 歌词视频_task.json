@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "音乐缓存，视频缓存与模板缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "网易云音乐 歌词视频",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PRIVATE_DATA/com.netease.cloudmusic/files/lyricvideo/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/lyrictemplate2/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

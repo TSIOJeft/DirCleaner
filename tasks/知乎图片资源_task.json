@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "知乎的小型图片资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "知乎图片资源",
+  "Notice": 0,
+  "PackName": "com.zhihu.android",
+  "Paths": [
+    "PUBLIC_DATA/com.zhihu.android/files/pictures"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

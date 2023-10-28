@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "表情缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 表情推荐",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/sticker_recommended_pics/",
+    "PUBLIC_LOCATION/tencent/mobileqq/keyword_emotion/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/keyword_emotion/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/sticker_recommended_pics/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

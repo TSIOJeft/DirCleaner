@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "迅雷 额外的日志",
+  "Notice": 0,
+  "PackName": "com.xunlei.downloadprovider",
+  "Paths": [
+    "PRIVATE_DATA/com.xunlei.downloadprovider/files/.jglogs/",
+    "PUBLIC_DATA/com.xunlei.downloadprovider/files/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

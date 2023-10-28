@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "视频，群文件与聊天图片缩略图。",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 缩略图",
+  "Notice": 0,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/tim/shortvideo/thumbs/",
+    "PUBLIC_LOCATION/tencent/tim/thumb/",
+    "PUBLIC_LOCATION/tencent/tim/thumb2/",
+    "PUBLIC_LOCATION/tencent/timfile_recv/.thumbnails/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

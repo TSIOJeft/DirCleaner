@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "查看过的视频文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "酷安 加载的视频",
+  "Notice": 0,
+  "PackName": "com.coolapk.market",
+  "Paths": [
+    "PUBLIC_DATA/com.coolapk.market/cachett_ad/video_feed"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

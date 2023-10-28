@@ -1,0 +1,27 @@
+{
+  "Checked": false,
+  "Description": "图片与视频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 日迹",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/video_story/",
+    "PUBLIC_LOCATION/tencent/mobileqq/qqstory/",
+    "PUBLIC_LOCATION/tencent/mobileqq/rijmmkv/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/video_story/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/rijmmkv/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/qqstory/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/video_story/",
+    "PUBLIC_LOCATION/qqstory/",
+    "PUBLIC_LOCATION/tencent/mobileqq/subscribe_draft_simple",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/subscribe_draft_simple",
+    "PUBLIC_LOCATION/tencent/mobileqq/subscribe_draft",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/subscribe_draft"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

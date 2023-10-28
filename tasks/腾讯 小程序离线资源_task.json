@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小程序的资源或许有用",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯 小程序离线资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ/pddata"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

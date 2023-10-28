@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录（导航引擎日志等）",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度地图 额外的日志",
+  "Notice": 0,
+  "PackName": "com.baidu.baidumap",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.baidumap/baidumap/bnav/log",
+    "PUBLIC_DATA/com.baidu.baidumap/baidumap/bnav/navcorelog",
+    "PUBLIC_DATA/com.baidu.baidumap/baidumap/bnav/navienginelog"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

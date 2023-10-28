@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "2345应用市场 额外的日志",
+  "Notice": 0,
+  "PackName": "com.androidmarket.dingzhi",
+  "Paths": [
+    "PUBLIC_LOCATION/应用市场/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

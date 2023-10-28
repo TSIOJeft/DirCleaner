@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "根据本地音乐匹配的专辑图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "网易云音乐 匹配专辑图片",
+  "Notice": 1,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/netease/cloudmusic/download/image/album/",
+    "PUBLIC_LOCATION/netease/cloudmusic/localmusic/Image/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

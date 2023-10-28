@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "饿了么图片视频等缓存文件和一些其他的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "饿了么 缓存文件",
+  "Notice": 0,
+  "PackName": "me.ele",
+  "Paths": [
+    "PUBLIC_DATA/me.ele/files/AVFSCache",
+    "PUBLIC_DATA/me.ele/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

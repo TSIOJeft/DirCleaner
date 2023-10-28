@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "拼多多 额外的日志",
+  "Notice": 0,
+  "PackName": "com.xunmeng.pinduoduo",
+  "Paths": [
+    "PRIVATE_DATA/com.xunmeng.pinduoduo/files/pdd_crash_report/",
+    "PRIVATE_DATA/com.xunmeng.pinduoduo/files/live_log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

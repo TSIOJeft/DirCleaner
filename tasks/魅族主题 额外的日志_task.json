@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族主题 额外的日志",
+  "Notice": 0,
+  "PackName": "com.meizu.customizecenter",
+  "Paths": [
+    "PUBLIC_LOCATION/customize/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

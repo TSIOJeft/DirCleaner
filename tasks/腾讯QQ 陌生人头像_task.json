@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 陌生人头像",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/head/_stranger/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/head/_stranger/",
+    "PUBLIC_LOCATION/tencent/mobileqq/head/_st/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/head/_st/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

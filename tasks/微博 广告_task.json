@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微博 广告",
+  "Notice": 0,
+  "PackName": "com.sina.weibo",
+  "Paths": [
+    "PUBLIC_LOCATION/sina/weibo/storage/biz_keep/.weibo_ad_universal_cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

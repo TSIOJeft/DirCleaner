@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "字体缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 嗨爆字体",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/.hiboom_font/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.hiboom_font/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "聊天中加载的图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 聊天图片",
+  "Notice": 2,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/tim/photo/",
+    "PUBLIC_LOCATION/tencent/tim/diskcache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

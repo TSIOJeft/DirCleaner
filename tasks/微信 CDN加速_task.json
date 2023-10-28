@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "加速缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 CDN加速",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?>(?:micromsg|weixin)\\/)(?>[a-z0-9]{32}\\/)(?>cdn(dnsinfo)?\\/)(?>.+)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

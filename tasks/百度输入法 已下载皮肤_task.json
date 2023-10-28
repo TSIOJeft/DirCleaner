@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "输入法皮肤文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度输入法 已下载皮肤",
+  "Notice": 2,
+  "PackName": "com.baidu.input",
+  "Paths": [
+    "PUBLIC_LOCATION/baidu/ime/skins/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族锁屏 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.meizu.net.nativelockscreen",
+  "Paths": [
+    "PUBLIC_LOCATION/sslcache/",
+    "PUBLIC_LOCATION/.pretemp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

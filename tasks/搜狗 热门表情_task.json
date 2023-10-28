@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的热门表情",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "搜狗 热门表情",
+  "Notice": 0,
+  "PackName": "com.sohu.inputmethod.sogou",
+  "Paths": [
+    "PUBLIC_LOCATION/sogou/.hotexp"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0,
+  "type": 0
+}

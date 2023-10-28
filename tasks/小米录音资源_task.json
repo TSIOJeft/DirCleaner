@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "包括应用录音通话录音等录音文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米录音资源",
+  "Notice": 2,
+  "PackName": "com.xiaomi.misettings",
+  "Paths": [
+    "PUBLIC_LOCATION/MIUI/sound_recorder/app_rec"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

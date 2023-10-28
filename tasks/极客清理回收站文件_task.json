@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "极客清理执行删除操作后的备份文件，不会定期删除。请确认不需要后再打勾",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "极客清理回收站文件",
+  "Notice": 1,
+  "PackName": "com.dirt.app",
+  "Paths": [
+    "PUBLIC_DATA/com.dirt.app/files/recovery"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

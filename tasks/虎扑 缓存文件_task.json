@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "缓存文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "虎扑 缓存文件",
+  "Notice": 2,
+  "PackName": "com.hupu.games",
+  "Paths": [
+    "PUBLIC_LOCATION/hupu/games/ttVideo"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

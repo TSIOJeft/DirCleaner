@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "搜索留下来的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 探索",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/search"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

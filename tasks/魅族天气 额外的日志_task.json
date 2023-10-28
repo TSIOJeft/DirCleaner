@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "魅族天气 额外的日志",
+  "Notice": 0,
+  "PackName": "com.meizu.flyme.weather",
+  "Paths": [
+    "PUBLIC_DATA/com.meizu.flyme.weather/weather_log.txt",
+    "PUBLIC_LOCATION/mojimeizu/crash/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

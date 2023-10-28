@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 搜一搜",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/",
+    "PRIVATE_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*recbiz"
+  ],
+  "Size": 0,
+  "type": 0
+}

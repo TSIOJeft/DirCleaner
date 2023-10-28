@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "保存的教程视频和音频 删除后需要重新下载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "KEEP 教程视频和音频",
+  "Notice": 2,
+  "PackName": "com.gotokeep.keep",
+  "Paths": [
+    "PUBLIC_DATA/com.gotokeep.keep/files/Movies",
+    "PUBLIC_DATA/com.gotokeep.keep/files/TrainMusic",
+    "PUBLIC_DATA/com.gotokeep.keep/files/audio"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

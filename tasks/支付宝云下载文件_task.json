@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "支付宝本地存储的云文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "支付宝云下载文件",
+  "Notice": 1,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_DATA/com.eg.android.AlipayGphone/files/nebulaDownload/downloads",
+    "PUBLIC_LOCATION/com.eg.android.AlipayGphone/nebulaDownload/downloads"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

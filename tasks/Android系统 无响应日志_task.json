@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "/data/anr/",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Android系统 无响应日志",
+  "Notice": 0,
+  "PackName": "null",
+  "Paths": [
+    "/data/anr/"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0,
+  "type": 0
+}

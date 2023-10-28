@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "头像图片的存储",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ频道 头像图片",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/qcircle/file/download/feed_pic"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

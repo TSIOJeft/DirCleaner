@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "抖音 额外的缓存缓存",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.aweme",
+  "Paths": [
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/follow_feed_cache/",
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/mediattmp/",
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/music/cache/",
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/share/tmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

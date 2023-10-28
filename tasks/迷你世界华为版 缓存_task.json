@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "游戏产生的缓存文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "迷你世界华为版 缓存",
+  "Notice": 0,
+  "PackName": "com.minitech.miniworld.huawei",
+  "Paths": [
+    "PUBLIC_DATA/com.minitech.miniworld.huawei/cache/",
+    "PUBLIC_DATA/com.minitech.miniworld.huawei/files/mini/cache",
+    "PUBLIC_DATA/com.minitech.miniworld.huawei/files/Log"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

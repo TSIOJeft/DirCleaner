@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "最右缓存的视频文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "最右 视频缓存",
+  "Notice": 0,
+  "PackName": "cn.xiaochuankeji.tieba",
+  "Paths": [
+    "PUBLIC_DATA/cn.xiaochuankeji.tieba/cache/videos",
+    "PUBLIC_DATA/cn.xiaochuankeji.tieba/cache/video"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

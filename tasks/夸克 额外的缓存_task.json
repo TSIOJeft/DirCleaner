@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "夸克 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.quark.browser",
+  "Paths": [
+    "PUBLIC_DATA/com.quark.browser/files/._videocache/",
+    "PUBLIC_LOCATION/ucdownloads/video/.apollocache/",
+    "PRIVATE_DATA/com.quark.browser/files/download/cache_idx",
+    "PRIVATE_DATA/com.quark.browser/files/ucache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

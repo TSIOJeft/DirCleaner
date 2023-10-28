@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "知乎的视频缓存文件和临时缓存文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "知乎视频和临时缓存",
+  "Notice": 0,
+  "PackName": "com.zhihu.android",
+  "Paths": [
+    "PRIVATE_DATA/com.zhihu.android/app_offlinepackages/temp/",
+    "PRIVATE_DATA/com.zhihu.android/files/cookiecache/",
+    "PRIVATE_DATA/com.zhihu.android/files/zhihumqttcache/",
+    "PUBLIC_DATA/com.zhihu.android/files/movies/videocache/",
+    "PUBLIC_DATA/com.zhihu.android/files/txrtmp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

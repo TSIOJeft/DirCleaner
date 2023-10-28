@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不包括已下载的主题",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米主题 未下载完成的主题",
+  "Notice": 0,
+  "PackName": "com.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/theme/.download/.temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

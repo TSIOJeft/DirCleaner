@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "招商银行 用户头像",
+  "Notice": 0,
+  "PackName": "cmb.pb",
+  "Paths": [
+    "PUBLIC_LOCATION/cmb.pb/avatar"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

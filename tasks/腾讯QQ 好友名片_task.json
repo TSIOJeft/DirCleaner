@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 好友名片",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/portrait/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/portrait/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

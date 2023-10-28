@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "加载的头像图片资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ邮箱 邮箱头像",
+  "Notice": 0,
+  "PackName": "com.tencent.androidqqmail",
+  "Paths": [
+    "PUBLIC_LOCATION/Tencent/QQmail/emailIcon",
+    "PUBLIC_DATA/com.tencent.androidqqmail/files/QQmail/emailIcon",
+    "PUBLIC_DATA/com.tencent.androidqqmail/files/QQmail/nickIcon"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

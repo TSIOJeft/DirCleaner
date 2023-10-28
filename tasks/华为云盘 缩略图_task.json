@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "云盘照片缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "华为云盘 缩略图",
+  "Notice": 0,
+  "PackName": "com.huawei.hidisk",
+  "Paths": [
+    "PUBLIC_LOCATION/huawei/clouddrive/.thumbnail/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

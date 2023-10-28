@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "小程序再次点击会自动下载，数据可从云端重新加载",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 已安装的小程序及其本地数据",
+  "Notice": 1,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/micromsg\\/.*?)(?>(?:appbrand\\/pkg|wepkg\\/commlib)\\/)(?>.+)$",
+    "^\\/(?:.+?\\/micromsg\\/)(?>[\\w]{32}\\/)(AppBrandComm\\.db(-[\\w]{3})?)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "由腾讯QQ集成的QQ音乐产生的的缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 内建QQ音乐",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/qqmusic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/qqmusic/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

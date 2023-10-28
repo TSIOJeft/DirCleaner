@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "哔哩哔哩视频网络缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "哔哩哔哩视频缓存",
+  "Notice": 1,
+  "PackName": "tv.danmaku.bili",
+  "Paths": [
+    "PUBLIC_DATA/tv.danmaku.bili/files/VideoCache/web"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

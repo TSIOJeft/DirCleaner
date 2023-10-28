@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "进场特效资源缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 进场特效",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/.troop/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.troop/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

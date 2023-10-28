@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "编辑时腾讯QQ自动保存的图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 编辑时图片",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qq_Images/qqeditpic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qq_Images/qqeditpic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/ae/camera/capture/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "支付宝本地存储的小程序",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "支付宝本地小程序",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/com.eg.android.alipaygphone/trafficlogic/",
+    "PUBLIC_LOCATION/alipay/com.eg.android.AlipayGphone/applogic",
+    "PUBLIC_DATA/com.eg.android.AlipayGphone/files/applogic"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

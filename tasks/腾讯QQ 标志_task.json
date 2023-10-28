@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "状态图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 标志",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/status_ic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/status_ic/",
+    "PUBLIC_LOCATION/tencent/mobileqq/logo/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/logo/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

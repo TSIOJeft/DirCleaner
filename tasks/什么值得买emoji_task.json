@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "什么值得买的emoji图片资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "什么值得买emoji",
+  "Notice": 0,
+  "PackName": "com.smzdm.client.android",
+  "Paths": [
+    "PUBLIC_DATA/com.smzdm.client.android/files/Pictures"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

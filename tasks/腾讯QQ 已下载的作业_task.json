@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "老师分发的作业",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 已下载的作业",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqhomework_recv/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqhomework_recv/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

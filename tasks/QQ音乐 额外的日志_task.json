@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ音乐 额外的日志",
+  "Notice": 0,
+  "PackName": "com.tencent.qqmusic",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/eup/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/log/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/xlog/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/common_statics.log",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/playlog"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

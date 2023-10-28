@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TapTap 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.taptap",
+  "Paths": [
+    "PUBLIC_DATA/com.taptap/files/share_temp/",
+    "PUBLIC_DATA/com.taptap/files/download/taptaptmp/",
+    "PRIVATE_DATA/com.taptap/files/v3cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

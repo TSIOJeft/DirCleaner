@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "地图缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德开放平台SDK",
+  "Notice": 0,
+  "PackName": "com.amap.android.ams",
+  "Paths": [
+    "PUBLIC_LOCATION/amap/data_v6/mapcache/"
+  ],
+  "Redirect_Avoid": true,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "快手data下的视频缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "快手视频缓存",
+  "Notice": 0,
+  "PackName": "com.smile.gifmaker",
+  "Paths": [
+    "/data/data/com.smile.gifmaker/files"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

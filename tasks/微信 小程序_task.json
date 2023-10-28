@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "小程序缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 小程序",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mm/micromsg/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/micromsg\\/)(?>[a-z0-9]{32}\\/appbrand\\/)(?:report|web_renderingcache)\\/(?>.+)$",
+    "^\\/(?:.+?\\/micromsg\\/)(?>appbrand\\/jscache\\/)(.+?)$",
+    "^\\/(?:.+?\\/micromsg\\/)(?>cronetcache\\/appbrand\\/cache\\/)(.+?)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "支付宝额外的媒体图片视频文件等",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "支付宝额外的媒体文件",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_DATA/com.eg.android.AlipayGphone/files/multimedia"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

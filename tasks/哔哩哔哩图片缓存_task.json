@@ -1,0 +1,17 @@
+{
+  "Checked": true,
+  "Description": "哔哩哔哩图片的缓存包括大图小图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "哔哩哔哩图片缓存",
+  "Notice": 0,
+  "PackName": "tv.danmaku.bili",
+  "Paths": [
+    "PUBLIC_DATA/tv.danmaku.bili/cache/SmallImagePipeLine",
+    "PUBLIC_DATA/tv.danmaku.bili/cache/ImagePipeLine"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

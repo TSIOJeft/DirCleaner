@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "快手极速版 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.kuaishou.nebula",
+  "Paths": [
+    "PUBLIC_DATA/com.kuaishou.nebula/files/.awesome_cache/",
+    "PRIVATE_DATA/com.kuaishou.nebula/app_cache/",
+    "PRIVATE_DATA/com.kuaishou.nebula/files/filedownloader/",
+    "PUBLIC_LOCATION/nebula/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 闪聊",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/flashchat/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/flashchat/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "淘宝的腾讯日志文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "淘宝日志文件",
+  "Notice": 0,
+  "PackName": "com.taobao.taobao",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.taobao/files/tlog_v9"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

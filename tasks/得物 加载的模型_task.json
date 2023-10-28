@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "得物加载的3D模型",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "得物 加载的模型",
+  "Notice": 0,
+  "PackName": "com.shizhuang.duapp",
+  "Paths": [
+    "PUBLIC_DATA/com.shizhuang.duapp/models",
+    "PUBLIC_DATA/com.shizhuang.duapp/files/assets/resource"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

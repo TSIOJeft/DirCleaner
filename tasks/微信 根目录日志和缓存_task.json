@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "根目录的崩溃日志和缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 根目录日志和缓存",
+  "Notice": 0,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mm/micromsg/appbrand/jscache",
+    "PRIVATE_DATA/com.tencent.mm/micromsg/webview_tmpl/tmpls",
+    "PRIVATE_DATA/com.tencent.mm/app_x5webview/Cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

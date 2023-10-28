@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "快手 额外的日志",
+  "Notice": 0,
+  "PackName": "com.smile.gifmaker",
+  "Paths": [
+    "PRIVATE_DATA/com.smile.gifmaker/debuglog/",
+    "PRIVATE_DATA/com.smile.gifmaker/exception/java_crash_log/",
+    "PRIVATE_DATA/com.smile.gifmaker/exception/native_crash_log/",
+    "PRIVATE_DATA/com.smile.gifmaker/kwailink/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

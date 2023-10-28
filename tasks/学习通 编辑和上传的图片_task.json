@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "编辑图片或者拍照上传的图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "学习通 编辑和上传的图片",
+  "Notice": 0,
+  "PackName": "com.chaoxing.mobile",
+  "Paths": [
+    "PUBLIC_LOCATION/0/chaoxing/chaoxingmobile/images"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

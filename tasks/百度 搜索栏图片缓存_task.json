@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "搜索栏图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度 搜索栏图片缓存",
+  "Notice": 0,
+  "PackName": "com.baidu.searchbox",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.searchbox/files/widget"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

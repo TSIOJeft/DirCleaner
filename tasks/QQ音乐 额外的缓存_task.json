@@ -1,0 +1,28 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "QQ音乐 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.tencent.qqmusic",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/supersound/effects/resae/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/landscape/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/vip_center/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/network/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/moments/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/imagecache",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/ubc/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/machine-learning-download/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/firstpiece/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/rsconfig_res/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/.assist/",
+    "PUBLIC_DATA/com.tencent.qqmusic/files/qqmusic/gift_anim_zip/",
+    "PUBLIC_LOCATION/qqmusic/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

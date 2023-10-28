@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "图形缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 新人入群卡片",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mobileqq/files/newComeCard/",
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.trooptmp/troopgiftconfig.tmp"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

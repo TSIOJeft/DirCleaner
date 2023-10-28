@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 热图",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/hotimage/",
+    "PUBLIC_LOCATION/tencent/mobileqq/hotpic/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/hotimage/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/hotpic/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

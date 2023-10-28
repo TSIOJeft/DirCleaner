@@ -1,0 +1,22 @@
+{
+  "Checked": false,
+  "Description": "拍摄中的贴图，滤镜资源等",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 拍摄",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/qbiz/",
+    "PUBLIC_LOCATION/tencent/mobileqq/capture_qsvf/",
+    "PUBLIC_LOCATION/tencent/mobileqq/sv_config_resource/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/qbiz/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/capture_qsvf/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/sv_config_resource/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/ae/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

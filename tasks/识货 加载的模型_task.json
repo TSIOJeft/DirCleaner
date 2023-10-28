@@ -1,0 +1,16 @@
+{
+  "Checked": true,
+  "Description": "加载的3D模型",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "识货 加载的模型",
+  "Notice": 0,
+  "PackName": "com.hupu.shihuo",
+  "Paths": [
+    "PUBLIC_DATA/com.hupu.shihuo/models"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

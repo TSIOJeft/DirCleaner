@@ -1,0 +1,20 @@
+{
+  "Checked": false,
+  "Description": "加载到本地的文档",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "微信 文档附件",
+  "Notice": 2,
+  "PackName": "com.tencent.mm",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mm/micromsg/",
+    "PUBLIC_DATA/com.tencent.mm/weixin/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*attachment"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "文档缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯TIM 文档插件",
+  "Notice": 0,
+  "PackName": "com.tencent.tim",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/timfile_recv/.tbsreadertempcom.tencent.tim/",
+    "PUBLIC_LOCATION/tencent/timfile_recv/.tbsreadertemp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

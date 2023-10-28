@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "以前使用过的壁纸",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米主题 历史壁纸",
+  "Notice": 2,
+  "PackName": "com.android.thememanager",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/.wallpaper_history/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

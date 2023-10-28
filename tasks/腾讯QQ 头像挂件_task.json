@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "图形缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 头像挂件",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/.pendant/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/.pendant/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

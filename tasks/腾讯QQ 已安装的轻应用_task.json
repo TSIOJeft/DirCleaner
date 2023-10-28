@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "轻应用为分享中带Drawable的xml消息",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 已安装的轻应用",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PRIVATE_DATA/com.tencent.mobileqq/files/arkapp/install/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/arkapp/storage/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/arkapp/res/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "在线播放缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度网盘 媒体预览",
+  "Notice": 0,
+  "PackName": "com.baidu.netdisk",
+  "Paths": [
+    "PUBLIC_LOCATION/baidunetdisk/.audiocache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

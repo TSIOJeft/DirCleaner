@@ -1,0 +1,34 @@
+{
+  "Checked": false,
+  "Description": "视频，群文件与聊天图片缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 缩略图",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/thumb/",
+    "PUBLIC_LOCATION/tencent/mobileqq/thumb2/",
+    "PUBLIC_LOCATION/tencent/mobileqq/shortvideo/thumbs/",
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.tmp/",
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.trooptmp/",
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.thumbnails/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/thumb/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/thumb2/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/shortvideo/thumbs/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqfile_recv/.tmp/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqfile_recv/.trooptmp/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/qqfile_recv/.thumbnails/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+\\/)(?>mobileqq\\/)(?:thumb2?\\/)(?>.+)$",
+    "^\\/(?:.+\\/)(?>mobileqq\\/shortvideo\\/)(?:thumbs\\/)(?>.+)$",
+    "^\\/(?:.+\\/)(?>qqfile_recv\\/\\.tmp\\/)(?>.+)$",
+    "^\\/(?:.+\\/)(?>qqfile_recv\\/\\.trooptmp\\/)(?:\\[Thumb\\].+?)$",
+    "^\\/(?:.+\\/)(?>qqfile_recv\\/\\.thumbnails\\/)(?>.+)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "路线规划缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 路线规划",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/alc/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/alc-childproc/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonaviPRIVATE_DATATunnelRecord.db",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/data/Statistics.db"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "临时文件包括脱壳缓存压缩编辑等临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "MT管理器 临时文件",
+  "Notice": 0,
+  "PackName": "bin.mt.plus",
+  "Paths": [
+    "PUBLIC_DATA/bin.mt.plus/temp",
+    "PUBLIC_LOCATION/mt2/.temp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

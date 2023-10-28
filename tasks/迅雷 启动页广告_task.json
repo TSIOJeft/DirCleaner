@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "启动页广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "迅雷 启动页广告",
+  "Notice": 0,
+  "PackName": "com.xunlei.downloadprovider",
+  "Paths": [
+    "PUBLIC_DATA/com.xunlei.downloadprovider/files/splash_preload"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

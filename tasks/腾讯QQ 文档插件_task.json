@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "文档缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 文档插件",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.tbsreadertempcom.tencent.mobileqq/",
+    "PUBLIC_LOCATION/tencent/qqfile_recv/.tbsreadertemp/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

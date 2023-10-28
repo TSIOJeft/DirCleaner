@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "腾讯QQ缓存的文件包括播放器等缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 缓存文件",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "/sdcard/Android/data/com.tencent.mobileqq/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,21 @@
+{
+  "Checked": false,
+  "Description": "图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 个性名片",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/card/",
+    "PUBLIC_LOCATION/tencent/mobileqq/portrait/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/card/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/portrait/",
+    "PUBLIC_LOCATION/tencent/mobileqq/portrait/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/portrait/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

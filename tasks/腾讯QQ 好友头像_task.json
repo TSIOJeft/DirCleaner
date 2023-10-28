@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "群友，好友与群头像缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 好友头像",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/head/_hd/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/head/_hd/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

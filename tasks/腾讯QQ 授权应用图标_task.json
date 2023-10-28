@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "由应用授权产生的图标缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 授权应用图标",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/appicon/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/appicon/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

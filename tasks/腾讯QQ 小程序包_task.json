@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的程序包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 小程序包",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/wxminiapp"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "透过分享URL自动获取获取Drawable而生成的图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 网页分享",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/foward_urldrawable/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/foward_urldrawable/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

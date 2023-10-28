@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TapTap 启动页广告",
+  "Notice": 0,
+  "PackName": "com.taptap",
+  "Paths": [
+    "PUBLIC_DATA/com.taptap/files/dcim/startupsplash/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

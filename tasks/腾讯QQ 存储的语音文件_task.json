@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "包括群语音和聊天的语音文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 存储的语音文件",
+  "Notice": 2,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    ".*ptt"
+  ],
+  "Size": 0,
+  "type": 0
+}

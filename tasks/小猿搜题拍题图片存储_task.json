@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小猿搜题拍题的图片存储",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小猿搜题拍题图片存储",
+  "Notice": 0,
+  "PackName": "com.fenbi.android.solar",
+  "Paths": [
+    "PUBLIC_DATA/com.fenbi.android.solar/queryimage"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

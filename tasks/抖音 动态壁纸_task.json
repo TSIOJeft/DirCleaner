@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "生成壁纸时产生的安装包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "抖音 动态壁纸",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.aweme",
+  "Paths": [
+    "PUBLIC_DATA/com.ss.android.ugc.aweme/files/livewallpaper/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,22 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "网易云音乐 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PUBLIC_LOCATION/netease/cloudmusic/cache",
+    "PRIVATE_DATA/com.netease.cloudmusic/.cache/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/networkcache/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/tdreadtemp/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/bundle/cache/",
+    "PUBLIC_LOCATION/netease/cloudmusic/cache/upgradetemp/",
+    "PUBLIC_LOCATION/netease/cloudmusic/Cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "发送的图片的临时图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 临时图片",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/Tencent/MobileQQ/thumb"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

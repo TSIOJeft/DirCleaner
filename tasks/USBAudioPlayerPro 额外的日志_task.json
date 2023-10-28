@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "USBAudioPlayerPro 额外的日志",
+  "Notice": 0,
+  "PackName": "com.extreamsd.usbaudioplayerpro",
+  "Paths": [
+    "PUBLIC_LOCATION/uapp/uapp.txt",
+    "PUBLIC_LOCATION/uapp/nativecrashlog.txt"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

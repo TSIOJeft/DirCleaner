@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "广告缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "网易云音乐 发现页广告",
+  "Notice": 0,
+  "PackName": "com.netease.cloudmusic",
+  "Paths": [
+    "PRIVATE_DATA/com.netease.cloudmusic/files/banner_cache/",
+    "PRIVATE_DATA/com.netease.cloudmusic/files/storage/discoverypagebanner/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

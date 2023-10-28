@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "飞猪加载的视频图片缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "飞猪 加载的视频图片",
+  "Notice": 0,
+  "PackName": "com.taobao.trip",
+  "Paths": [
+    "PUBLIC_DATA/com.taobao.trip/files/AVFSCache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

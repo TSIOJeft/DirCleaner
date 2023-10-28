@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "小米相册的图片缓存包括大图小图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米相册 图片缓存",
+  "Notice": 2,
+  "PackName": "com.miui.gallery",
+  "Paths": [
+    "PUBLIC_DATA/com.miui.gallery/files/gallery_disk_cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

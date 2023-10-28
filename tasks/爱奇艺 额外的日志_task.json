@@ -1,0 +1,22 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "爱奇艺 额外的日志",
+  "Notice": 0,
+  "PackName": "com.qiyi.video",
+  "Paths": [
+    "PUBLIC_DATA/com.qiyi.video/files/iqiyiuniconnlog/",
+    "PUBLIC_DATA/com.qiyi.video/files/nle/logs/",
+    "PUBLIC_DATA/com.qiyi.video/files/plugin_debug/",
+    "PUBLIC_DATA/com.qiyi.video/files/push_log/",
+    "PUBLIC_DATA/com.qiyi.video/files/quill/",
+    "PRIVATE_DATA/com.qiyi.video/files/app/crash/",
+    "PRIVATE_DATA/com.qiyi.video/files/xlog/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

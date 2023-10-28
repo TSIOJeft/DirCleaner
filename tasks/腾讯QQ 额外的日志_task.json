@@ -1,0 +1,22 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 额外的日志",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/log/",
+    "PUBLIC_LOCATION/tencent/mobileqq/log/",
+    "PUBLIC_LOCATION/download/.cu/.log/",
+    "PUBLIC_DATA/com.tencent.mobileqq/filesqzlive/avsdk/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/live_log/",
+    "PRIVATE_DATA/com.tencent.mobileqq/files/crashinfo/",
+    "PUBLIC_DATA/com.tencent.mobileqq/files/Tencent/tbs_common_log"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

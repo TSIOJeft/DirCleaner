@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "云端路线规划缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度地图 云端路线规划",
+  "Notice": 0,
+  "PackName": "com.baidu.baidumap",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.baidumap/baidumap/bnav/guidancecloud"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

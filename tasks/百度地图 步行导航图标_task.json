@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "图标资源缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "百度地图 步行导航图标",
+  "Notice": 0,
+  "PackName": "com.baidu.baidumap",
+  "Paths": [
+    "PUBLIC_DATA/com.baidu.baidumap/files/wbfilecache/walk"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

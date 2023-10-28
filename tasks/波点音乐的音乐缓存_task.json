@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "听歌时产生的缓存，只要听歌一久，一般这个目录会比较大，但你可以留下它们并改为mp3后缀，你就会得到一首免费的音乐了！",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "波点音乐的音乐缓存",
+  "Notice": 0,
+  "PackName": "cn.wenyu.bodian",
+  "Paths": [
+    "PUBLIC_DATA/cn.wenyu.bodian/files/playCache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

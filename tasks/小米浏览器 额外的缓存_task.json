@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米浏览器 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.android.browser",
+  "Paths": [
+    "PUBLIC_LOCATION/browser/mediacache/",
+    "PUBLIC_LOCATION/browser/media_cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

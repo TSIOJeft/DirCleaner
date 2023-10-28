@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 下载中的小程序",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_DATA/com.autonavi.minimap/files/nebulah5app/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/alipay/com.autonavi.minimap/nebuladownload/downloads/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

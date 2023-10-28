@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "拍摄视频所用的配乐",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "抖音 已离线的配乐",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.waeme",
+  "Paths": [
+    "PRIVATE_DATA/com.ss.android.ugc.aweme/files/music/download/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

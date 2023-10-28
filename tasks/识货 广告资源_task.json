@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "识货的广告存储的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "识货 广告资源",
+  "Notice": 0,
+  "PackName": "com.hupu.shihuo",
+  "Paths": [
+    "PUBLIC_DATA/com.hupu.shihuo/files/ad"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

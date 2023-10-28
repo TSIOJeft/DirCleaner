@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "临时文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "一加五刷机盒子 Magisk解包",
+  "Notice": 0,
+  "PackName": "com.daxiaamu.op5mutoolsnew",
+  "Paths": [
+    "PUBLIC_DATA/com.daxiaamu.op5mutoolsnew/magiskunpack/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

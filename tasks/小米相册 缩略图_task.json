@@ -1,0 +1,18 @@
+{
+  "Checked": false,
+  "Description": "云相册缩略图",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "小米相册 缩略图",
+  "Notice": 0,
+  "PackName": "com.miui.gallery",
+  "Paths": [
+    "PUBLIC_LOCATION/miui/gallery/cloud/.microthumbnailfile/",
+    "PUBLIC_LOCATION/miui/gallery/cloud/.cache/",
+    "PUBLIC_LOCATION/miui/gallery/cloud/thumbnaifile/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

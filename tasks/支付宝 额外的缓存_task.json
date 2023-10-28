@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "支付宝媒体额外的缓存文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "支付宝 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.eg.android.AlipayGphone",
+  "Paths": [
+    "PUBLIC_LOCATION/alipay/multimedia/",
+    "PRIVATE_DATA/com.eg.android.alipaygphone/app_alipay_msp_disk_cache/",
+    "PRIVATE_DATA/com.eg.android.alipaygphone/files/securitycacheservicestorage/",
+    "PUBLIC_DATA/com.eg.android.AlipayGphone/files/sdcard/alipay/mediaop/cache"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

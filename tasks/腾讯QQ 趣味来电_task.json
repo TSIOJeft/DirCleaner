@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "趣味来电动画资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 趣味来电",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/funcall/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/funcall/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

@@ -1,0 +1,34 @@
+{
+  "Checked": false,
+  "Description": "一些无用的涂鸦模板压缩资源",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 涂鸦压缩资源",
+  "Notice": 0,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/dov_doodle_template/",
+    "PUBLIC_LOCATION/tencent/mobileqq/dov_doodle_sticker/",
+    "PUBLIC_LOCATION/tencent/mobileqq/dov_doodle_music/",
+    "PUBLIC_LOCATION/tencent/mobileqq/doodle_template/",
+    "PUBLIC_LOCATION/tencent/mobileqq/capture_ptv_template/",
+    "PUBLIC_LOCATION/tencent/mobileqq/dov_ptv_template_dov/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dynamic_text/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dov_doodle_template/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dov_doodle_sticker/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dov_doodle_music/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/doodle_template/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/capture_ptv_template/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dov_ptv_template_dov/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/dynamic_text/",
+    "PUBLIC_LOCATION/tencent/mobileqq/babyqiconres/"
+  ],
+  "Redirect_Avoid": false,
+  "Regexes": [
+    "^\\/(?:.+?\\/)(?:.+?\\/temp.+?|(dov_)?doodle_template\\/(?:doodle_(?:template|fireworks|highlighter|image_(?:family|mouth|xin))))$",
+    "^\\/(?:.+?\\/mobileqq\\/)(?>babyqiconres\\/)(babyQIconRes\\.zip)$"
+  ],
+  "Size": 0,
+  "type": 0
+}

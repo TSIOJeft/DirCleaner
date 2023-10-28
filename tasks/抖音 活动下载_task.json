@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "红包活动中下载的安装包",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "抖音 活动下载",
+  "Notice": 0,
+  "PackName": "com.ss.android.ugc.aweme",
+  "Paths": [
+    "PUBLIC_LOCATION/diamond/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

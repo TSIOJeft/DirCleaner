@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的缓存目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "X浏览器 额外的缓存",
+  "Notice": 0,
+  "PackName": "com.mmbox.xbrowser",
+  "Paths": [
+    "PUBLIC_LOCATION/xbrowser/cache/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

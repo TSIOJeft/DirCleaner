@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "对话中下载的视频",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "Telegram 视频",
+  "Notice": 2,
+  "PackName": "org.telegram.messenger",
+  "Paths": [
+    "PUBLIC_LOCATION/telegram/telegram video/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

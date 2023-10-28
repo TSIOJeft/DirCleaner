@@ -1,0 +1,19 @@
+{
+  "Checked": false,
+  "Description": "地图缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 在线地图",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/data/crosscache/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/data/mapcache/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/data/online/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/amaplocation/autonavi/indoor/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

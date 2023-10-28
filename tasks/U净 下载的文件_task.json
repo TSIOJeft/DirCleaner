@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "下载的文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "U净 下载的文件",
+  "Notice": 0,
+  "PackName": "com.midea.vm.washer",
+  "Paths": [
+    "PUBLIC_LOCATION/uclean/.download_file"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

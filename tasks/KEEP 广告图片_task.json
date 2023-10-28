@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "KEEP的广告图片",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "KEEP 广告图片",
+  "Notice": 0,
+  "PackName": "com.gotokeep.keep",
+  "Paths": [
+    "PUBLIC_LOCATION/keep/ads",
+    "PUBLIC_DATA/com.gotokeep.keep/files/keep/ads"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

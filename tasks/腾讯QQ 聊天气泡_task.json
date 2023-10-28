@@ -1,0 +1,17 @@
+{
+  "Checked": false,
+  "Description": "图形缓存",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "腾讯QQ 聊天气泡",
+  "Notice": 1,
+  "PackName": "com.tencent.mobileqq",
+  "Paths": [
+    "PUBLIC_LOCATION/tencent/mobileqq/bubble_info/",
+    "PUBLIC_DATA/com.tencent.mobileqq/tencent/mobileqq/bubble_info/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

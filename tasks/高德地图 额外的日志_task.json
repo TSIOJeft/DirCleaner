@@ -1,0 +1,28 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志目录",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "高德地图 额外的日志",
+  "Notice": 0,
+  "PackName": "com.autonavi.minimap",
+  "Paths": [
+    "PRIVATE_DATA/com.autonavi.minimap/app_telescope/log/",
+    "PRIVATE_DATA/com.autonavi.minimap/files/applog/",
+    "PRIVATE_DATA/com.autonavi.minimap/files/inside_logs/",
+    "PRIVATE_DATA/com.autonavi.minimap/files/trackPost/",
+    "PUBLIC_LOCATION/autonavi/crash_limit/",
+    "PUBLIC_LOCATION/autonavi/location/crash_limit/",
+    "PUBLIC_LOCATION/autonavi/location/uploadcrash/",
+    "PUBLIC_LOCATION/autonavi/location/.fd_tmp_file.txt",
+    "PUBLIC_LOCATION/autonavi/uploadcrash/",
+    "PUBLIC_LOCATION/autonavi/uploadsoerr/",
+    "PUBLIC_LOCATION/autonavi/.fd_tmp_file.txt",
+    "PUBLIC_DATA/com.autonavi.minimap/files/amap/com.autonavi.minimap/applogic/",
+    "PUBLIC_DATA/com.autonavi.minimap/files/autonavi/log/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

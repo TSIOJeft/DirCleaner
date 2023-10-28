@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "不合乎规范的日志文件",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "TapTap 额外的日志",
+  "Notice": 0,
+  "PackName": "com.taptap",
+  "Paths": [
+    "PRIVATE_DATA/com.taptap/files/buglylog_com.taptap_.txt"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}

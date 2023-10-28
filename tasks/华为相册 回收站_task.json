@@ -1,0 +1,16 @@
+{
+  "Checked": false,
+  "Description": "三思而后行",
+  "FileUris": [],
+  "App": true,
+  "lastModified": 0,
+  "Name": "华为相册 回收站",
+  "Notice": 2,
+  "PackName": "com.android.gallery3d",
+  "Paths": [
+    "PUBLIC_LOCATION/pictures/.gallery2/recycle/"
+  ],
+  "Redirect_Avoid": false,
+  "Size": 0,
+  "type": 0
+}
