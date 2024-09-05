@@ -1,0 +1,8 @@
+{
+    "Path": "C:\\ProgramData\\NVIDIA Corporation\\NVIDIA app\\UpdateFramework\\ota-artifacts\\grd",
+    "Name": "NVIDIA App 下载的驱动安装包",
+    "AppName": "NVIDIA App",
+    "Description": "NVIDIA App 下载的驱动安装包，比较重要，谨慎删除",
+    "match": true,
+    "iconPath": "/icons/ic_folder.png"
+}
